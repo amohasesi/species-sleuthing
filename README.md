@@ -15,4 +15,3 @@ that are most predictive of penguin species
 ## Contents
 
 - species_sleuthing.ipynb: Jupyter notebook containing all code for analysis, model building, and visualization
-- data/: Folder containing the Palmer Penguins dataset
