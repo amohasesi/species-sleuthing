@@ -8,7 +8,7 @@ This project analyzes the Palmer Penguins dataset in Python to identify key feat
 
 - Feature Selection: Applies systematic logistic regression-based feature selection to identify the trio combination of features
 that are most predictive of penguin species
-- Model Building: Develops logistic regression, random forest, and support vector machine models
+- Model Building: Develops logistic regression, random forest, and SVM classification models
 - Hyperparameter Tuning: Uses cross-validated grid search to optimize model performance
 - Visualization: Plots confusion matrices and decision regions to evaluate and compare model performance
  
