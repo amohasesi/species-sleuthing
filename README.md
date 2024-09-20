@@ -14,4 +14,4 @@ that are most predictive of penguin species
  
 ## Contents
 
-- species_sleuthing.ipynb: Jupyter notebook containing all code for analysis, model building, and visualization
+- species_sleuthing.ipynb: Jupyter notebook containing all code for analysis, model building, hyperparameter tuning, and visualization
