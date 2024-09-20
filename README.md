@@ -13,4 +13,4 @@ This project analyzes the Palmer Penguins dataset in Python to identify key feat
  
 ## Contents
 
-- species_sleuthing.ipynb: Jupyter notebook containing all code for analysis, model building, hyperparameter tuning, and visualization
+- species_sleuthing.ipynb: Jupyter notebook containing all code for analysis
