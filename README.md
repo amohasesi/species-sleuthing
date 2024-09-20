@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the Palmer Penguins dataset in Python to identify key features predictive of penguin species and builds three classification models to predict penguin species with high accuracy.
+This project analyzes the Palmer Penguins dataset in Python to identify key features predictive of penguins' species and builds a logistic regression, random forest, and support vector machine (SVM) model to predict penguins' species with high accuracy.
 
 ## Key Feautures 
 
